@@ -1,6 +1,6 @@
 # COE379L_Prog1
 
-<h1>What did you do to prepare the data?<\h1>
+<h1>What did you do to prepare the data?</h1>
 
 What insights did you get from your data preparation?
 
