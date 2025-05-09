@@ -9,6 +9,7 @@ The dataset (cancer.csv) contains anonymized patient records with the following 
 Size: 386 samples, 10 features
 
 <H2>Results Summary</H2>
+
 | Model                   | Accuracy | Notes                                                      |
 | ----------------------- | -------- | ---------------------------------------------------------- |
 | KNN (k=3)               | 59%      | Weak performance, especially on the minority class         |
