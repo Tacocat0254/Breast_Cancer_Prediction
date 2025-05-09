@@ -1,4 +1,4 @@
-<H3>Breast Cancer Recurrence Prediction</H3>
+<H1>Breast Cancer Recurrence Prediction</H1>
 This project explores data preprocessing, visualization, and classification models to predict breast cancer recurrence using a dataset of patient records. The workflow includes cleaning the data, one-hot-encoding, and applying machine learning models (K-Nearest Neighbors and Logistic Regression) for binary classification.
 
 <H2>Dataset</H2>
