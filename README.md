@@ -15,3 +15,10 @@ Size: 386 samples, 10 features
 | KNN (k=3)               | 59%      | Weak performance, especially on the minority class         |
 | KNN (Grid Search, k=13) | **72%**  | Best overall accuracy, but low recall for recurrence cases |
 | Logistic Regression     | 65%      | Better balance, but weak performance on minority class     |
+
+
+<H2>Libraries Used</H2>
+
+- pandas, numpy – data manipulation
+- seaborn, matplotlib – data visualization
+- sklearn – model building and evaluation (KNeighborsClassifier, LogisticRegression, GridSearchCV, train_test_split)
