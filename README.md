@@ -3,10 +3,12 @@ This project explores data preprocessing, visualization, and classification mode
 
 <H2>Dataset</H2>
 The dataset (cancer.csv) contains anonymized patient records with the following features:
+
 - class: Target variable (recurrence-events or no-recurrence-events)
 - age, menopause, tumor-size, inv-nodes, node-caps, deg-malig, breast, breast-quad, irradiat
 Size: 386 samples, 10 features
 
+<H2>Results Summary</H2>
 | Model                   | Accuracy | Notes                                                      |
 | ----------------------- | -------- | ---------------------------------------------------------- |
 | KNN (k=3)               | 59%      | Weak performance, especially on the minority class         |
